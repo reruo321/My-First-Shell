@@ -2,8 +2,6 @@
 
 My first shell in Linux
 
-## Features
-* 
 ### Commands
 * `date`: Run the Linux command `date`.
 * `uptime`: Run the Linux command `uptime`.

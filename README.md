@@ -1,6 +1,6 @@
 # My First Shell
 
-My first shell in Linux
+My first Linux shell
 ## Features
 ### Commands
 * `date`: Run the Linux command `date`.

@@ -14,7 +14,7 @@ My first Linux shell
 * `hclear`: It clears all command history in the reruo shell.
 
 ## Gallery
-### make
+### Making Reruo Shell
 ![make](https://github.com/user-attachments/assets/78f361eb-e46f-4be8-b855-cb8994f2c03c)
 
 ### `date`

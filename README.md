@@ -23,8 +23,10 @@ My first Linux shell
 ### `uptime`
 ![uptime](https://github.com/user-attachments/assets/72d16829-f6c6-464a-ac84-2ee6bb93fc6d)
 
+### `ls`
 ![ls](https://github.com/user-attachments/assets/5cc284ff-7607-4da7-b91d-fb037318a2b1)
 
+### `log`
 ![log](https://github.com/user-attachments/assets/cb516979-762a-41b5-8dd9-feceb7baa32a)
 
 ![exit](https://github.com/user-attachments/assets/5c18718d-bdbd-41da-b82e-f62c2c409804)

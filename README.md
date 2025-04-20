@@ -29,8 +29,11 @@ My first Linux shell
 ### `log`
 ![log](https://github.com/user-attachments/assets/cb516979-762a-41b5-8dd9-feceb7baa32a)
 
+### `exit`
 ![exit](https://github.com/user-attachments/assets/5c18718d-bdbd-41da-b82e-f62c2c409804)
 
+### `history`, `![N]`, `hclear`
 ![history](https://github.com/user-attachments/assets/74be5457-5917-4369-8ce0-2cbac1ca67ab)
 
+### `error`
 ![error](https://github.com/user-attachments/assets/64363bd4-2ba4-45e2-b27a-f3bedd0c4943)

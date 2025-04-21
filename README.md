@@ -1,4 +1,4 @@
-# My First Shell
+# Reruo Shell - My First Shell
 
 My first Linux shell
 ## Features
@@ -7,7 +7,7 @@ My first Linux shell
 * `uptime`: Run the Linux command `uptime`.
 * `ls`: Run the Linux command `ls -al`.
 * `log`: Run the Linux command `dmesg`.
-* `exit`: Exit the reruo shell.
+* `exit`: Exit the Reruo Shell.
 #### History
 * `history`: The reruo shell stores command history up to 10,000 lines, including invalid ones.
 * `![N]`: Run N-th command in the command history again.

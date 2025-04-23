@@ -2,6 +2,7 @@
 
 My first Linux shell
 ## Features
+* Support on some Linux commands
 * History
 ### Commands
 * `date`: Run the Linux command `date`.

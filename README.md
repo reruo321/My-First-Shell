@@ -3,7 +3,7 @@
 My first Linux shell
 ## Features
 * Support on some Linux commands
-* History
+* Command history
 ### Commands
 * `date`: Run the Linux command `date`.
 * `uptime`: Run the Linux command `uptime`.

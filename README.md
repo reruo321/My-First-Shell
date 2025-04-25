@@ -1,6 +1,6 @@
 # Reruo Shell - My First Shell
 
-My first Linux shell
+My first Linux shell. It contains multiple commands that run Linux commands or its own commands.
 ## Features
 * Support on some Linux commands
 * Command history
